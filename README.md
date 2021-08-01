@@ -1,7 +1,9 @@
 # ERC 20 - OpenZeppelin Akıllı Kontratı ile Ethereum Tabanlı Token Oluşturmak
 
 Ethereum geliştirmek için kullanılan bazı bir takım frameworkler bulunmakta ancak bunlar hem meşakatli hemde yüksek gereksinimleri bulunmakta (Etc zinciri- RPC sunuc vs.)
-Bu işlemlerin minimize edinmesi açısından etc-brownie framework'unu kullanacağız.
+Bu işlemlerin minimize edinmesi açısından etc-brownie framework kullanarak basit bir ISTANBUL Token isimli kripti birimi oluşturdum.
+
+Test sunucu üzerindeki varlığı ve kontrat bilgilerini görüntülemek isterseniz --> https://kovan.etherscan.io/token/0x8b3783b6d61bc086abf875616c280c5b004eb8af
 
 ## Gereksinimler  
 Kullanımdan önce lütfen aşağıdakileri kurun ve kurulum yönergelerini takip edin : 
