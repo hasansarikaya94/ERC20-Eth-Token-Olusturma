@@ -10,6 +10,7 @@ Kullanımdan önce lütfen aşağıdakileri kurun ve kurulum yönergelerini taki
 
 - [nodejs and npm](https://nodejs.org/en/download/)
 - [python](https://www.python.org/downloads/)
+- [infura](https://infura.io/)  --> Hesap oluşturup servis açın ve sonra .env düzenlemesini yapın.
 
 ## Kurulum
 
