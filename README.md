@@ -44,10 +44,11 @@ Panoya koplaya deyip cüzdan kodunuzu linkle yapiştirin.
 
 Bakiyemizi aldıysak projemizi oluşturalım. 
 
-#####Projemizi oluşturmak için:
+#Projemizi oluşturmak için:
 
 ```bash
 pip install eth-brownie```
+
 
 Çalıştığımız klasör içersinde oluşacak proje dosyamız oluştu. 
 
